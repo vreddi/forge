@@ -1,4 +1,7 @@
 {
-  "root": "google-drive-clone",
+  "name": "google-drive-clone",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/google-drive-clone/src",
   "targets": {}
 }
